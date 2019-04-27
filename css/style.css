@@ -1,0 +1,18 @@
+*{
+	margin:0;
+	padding:0;
+}
+ul{
+	padding-right:200px!important;
+}
+.nav.navbar-nav.navbar-right {
+	padding-right: 200px !important;
+}
+.navbar-brand img{
+	height:40px;
+	padding-left:right;
+}
+.navbar-inverse {
+	background-color: #DE5145;
+	border-color: #DE5145;
+}
